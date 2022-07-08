@@ -11,7 +11,7 @@ const News = (props) => {
     const [loading, setloading] = useState(false);
     const [page, setpage] = useState(1);
     let [totalArticles, settotalArticles] = useState(0);
-    const key = '7b18740137msh4be1b00d17fda6bp1bbccfjsndafb6bd5ced1'
+    const key = 'Your KEY'
 
 
 
